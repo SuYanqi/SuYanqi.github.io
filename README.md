@@ -1,6 +1,3 @@
-# sidong-feng
-https://www.free-css.com/template-categories/personal?start=108
-
 Thanks for downloading this template!
 
 Template Name: iPortfolio
