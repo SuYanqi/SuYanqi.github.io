@@ -79,16 +79,15 @@ h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #ffffff;
+  background: #1a1a1a;
   overflow-y: auto;
-  border-right: 1px solid #f0e0e6;
 }
 
 #header .profile img {
   margin: 15px auto;
   display: block;
   width: 120px;
-  border: 8px solid #fce4ec;
+  border: 8px solid #2a1a1f;
 }
 
 #header .profile h1 {
@@ -103,15 +102,15 @@ h6 {
 
 #header .profile h1 a,
 #header .profile h1 a:hover {
-  color: #1a1a1a;
+  color: #fff;
   text-decoration: none;
 }
 
 #header .profile .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #fce4ec;
-  color: #e91e8c;
+  background: #2a1a20;
+  color: #fff;
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
@@ -177,7 +176,7 @@ h6 {
 .nav-menu a:focus {
   display: flex;
   align-items: center;
-  color: #666;
+  color: #a8a9b4;
   padding: 12px 15px;
   margin-bottom: 8px;
   transition: 0.3s;
@@ -188,7 +187,7 @@ h6 {
 .nav-menu a:focus i {
   font-size: 24px;
   padding-right: 8px;
-  color: #aaa;
+  color: #6f7180;
 }
 
 .nav-menu a:hover,
@@ -196,7 +195,7 @@ h6 {
 .nav-menu .active:focus,
 .nav-menu li:hover>a {
   text-decoration: none;
-  color: #e91e8c;
+  color: #fff;
 }
 
 .nav-menu a:hover i,
