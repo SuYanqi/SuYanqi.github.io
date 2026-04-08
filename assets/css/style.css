@@ -79,15 +79,16 @@ h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #1a1a1a;
+  background: #ffffff;
   overflow-y: auto;
+  border-right: 1px solid #f0e0e6;
 }
 
 #header .profile img {
   margin: 15px auto;
   display: block;
   width: 120px;
-  border: 8px solid #2a1a1f;
+  border: 8px solid #fce4ec;
 }
 
 #header .profile h1 {
@@ -102,15 +103,15 @@ h6 {
 
 #header .profile h1 a,
 #header .profile h1 a:hover {
-  color: #fff;
+  color: #1a1a1a;
   text-decoration: none;
 }
 
 #header .profile .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #2a1a20;
-  color: #fff;
+  background: #fce4ec;
+  color: #e91e8c;
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
@@ -176,7 +177,7 @@ h6 {
 .nav-menu a:focus {
   display: flex;
   align-items: center;
-  color: #a8a9b4;
+  color: #666;
   padding: 12px 15px;
   margin-bottom: 8px;
   transition: 0.3s;
@@ -187,7 +188,7 @@ h6 {
 .nav-menu a:focus i {
   font-size: 24px;
   padding-right: 8px;
-  color: #6f7180;
+  color: #aaa;
 }
 
 .nav-menu a:hover,
@@ -195,7 +196,7 @@ h6 {
 .nav-menu .active:focus,
 .nav-menu li:hover>a {
   text-decoration: none;
-  color: #fff;
+  color: #e91e8c;
 }
 
 .nav-menu a:hover i,
@@ -319,7 +320,7 @@ section {
 }
 
 .section-bg {
-  background: #fdf7f9;
+  background: #fef5f8;
 }
 
 .section-title {
