@@ -319,7 +319,7 @@ section {
 }
 
 .section-bg {
-  background: #fff0f5;
+  background: #fdf7f9;
 }
 
 .section-title {
@@ -462,7 +462,7 @@ section {
 }
 
 .skills .progress-bar-wrap {
-  background: #fce4ec;
+  background: #fde8ef;
   height: 10px;
 }
 
@@ -503,7 +503,7 @@ section {
 
 .resume .resume-item h5 {
   font-size: 16px;
-  background: #fce4ec;
+  background: #fde8ef;
   padding: 5px 15px;
   display: inline-block;
   font-weight: 600;
@@ -867,7 +867,7 @@ section {
   float: left;
   width: 44px;
   height: 44px;
-  background: #fce4ec;
+  background: #fde8ef;
   display: flex;
   justify-content: center;
   align-items: center;
