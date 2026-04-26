@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.2.27)  16 APR 2026 17:23
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.2.27)  26 APR 2026 17:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -482,7 +482,7 @@ Package: titlesec 2023/10/27 v2.16 Sectioning titles
 \titlewidthlast=\dimen199
 \titlewidthfirst=\dimen256
 )
-No file template_chinese.aux.
+(./template_chinese.aux)
 \openout1 = `template_chinese.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -562,6 +562,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 12.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 12.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -597,41 +598,26 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 12.
+(./template_chinese.out) (./template_chinese.out)
 \@outlinefile=\write3
 \openout3 = `template_chinese.out'.
 
+ [1
 
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
-[1
-
-] [2]
-Overfull \hbox (16.33368pt too wide) in paragraph at lines 95--96
-[]\TU/STSong(0)/m/n/10.95 期 刊 审 稿 人：| \TU/lmr/m/n/10.95 TOSEM, EMSE\TU/STSong(0
-)/m/n/10.95 ；|  会 议 程 序 委 员 会：| \TU/lmr/m/n/10.95 MSR2026, ASE2025, ISSRE2025, 
-APSEC2025\TU/STSong(0)/m/n/10.95 ；|
- []
-
-[3] (./template_chinese.aux)
+] [2] [3]
+(./template_chinese.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/07/14>
  ***********
-
-
-Package rerunfilecheck Warning: File `template_chinese.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `template_chinese.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `template_chinese.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 14907 strings out of 474773
- 337146 string characters out of 5757724
+ 14915 strings out of 474773
+ 337338 string characters out of 5757724
  1935839 words of memory out of 5000000
- 36906 multiletter control sequences out of 15000+600000
+ 36908 multiletter control sequences out of 15000+600000
  560239 words of font info for 60 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,5n,97p,505b,409s stack positions out of 10000i,1000n,20000p,200000b,200000s
