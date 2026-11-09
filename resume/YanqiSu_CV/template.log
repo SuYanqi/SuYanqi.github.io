@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.21)  9 NOV 2026 16:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.21)  9 NOV 2026 17:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -306,29 +306,32 @@ Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
 \mc@col@check@num=\count308
 \g__mc_curr_col_int=\count309
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 38.
+(/usr/local/texlive/2026/texmf-dist/tex/latex/needspace/needspace.sty
+Package: needspace 2025/03/13 v1.3e reserve vertical space
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 41.
 
 (./template.aux)
 \openout1 = `template.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
 
 (/usr/local/texlive/2026/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -395,74 +398,79 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package color Info: Driver file: pdftex.def on input line 149.
 
 (/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/mathcolor.ltx))
-Package hyperref Info: Link coloring ON on input line 60.
+Package hyperref Info: Link coloring ON on input line 63.
 
 (./template.out) (./template.out)
 \@outlinefile=\write3
 \openout3 = `template.out'.
 
 
-Overfull \hbox (30.0pt too wide) in paragraph at lines 60--60
+Overfull \hbox (30.0pt too wide) in paragraph at lines 63--63
 [] 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 60.
+(Font)              <10.95> on input line 63.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 60.
+(Font)              <8> on input line 63.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 60.
+(Font)              <6> on input line 63.
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--95
+Underfull \hbox (badness 10000) in paragraph at lines 88--93
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--95
+Underfull \hbox (badness 10000) in paragraph at lines 98--108
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--108
 
  []
 
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
-nput line 118.
+nput line 132.
 
 (/usr/local/texlive/2026/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd
 )
-Underfull \hbox (badness 10000) in paragraph at lines 104--130
+Underfull \hbox (badness 10000) in paragraph at lines 118--144
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--130
+Underfull \hbox (badness 10000) in paragraph at lines 118--144
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--130
+Underfull \hbox (badness 10000) in paragraph at lines 118--144
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--130
+Underfull \hbox (badness 10000) in paragraph at lines 118--144
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--130
+Underfull \hbox (badness 10000) in paragraph at lines 118--144
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--130
+Underfull \hbox (badness 10000) in paragraph at lines 118--144
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--130
+Underfull \hbox (badness 10000) in paragraph at lines 118--144
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--130
+Underfull \hbox (badness 10000) in paragraph at lines 118--144
 
  []
 
@@ -470,120 +478,45 @@ Underfull \hbox (badness 10000) in paragraph at lines 104--130
 
 {/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-Underfull \hbox (badness 10000) in paragraph at lines 134--158
+Underfull \hbox (badness 10000) in paragraph at lines 165--170
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--158
+Underfull \hbox (badness 10000) in paragraph at lines 175--195
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--158
+Underfull \hbox (badness 10000) in paragraph at lines 175--195
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--158
+Underfull \hbox (badness 10000) in paragraph at lines 175--195
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--158
+Underfull \hbox (badness 10000) in paragraph at lines 175--195
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--158
+Underfull \hbox (badness 10000) in paragraph at lines 175--195
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--158
+Underfull \hbox (badness 10000) in paragraph at lines 175--195
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 134--158
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 134--158
-
- []
-
-
-Overfull \hbox (1.71817pt too wide) in paragraph at lines 164--165
-[]\OT1/cmr/m/n/10.95 Master the-sis: Bridg-ing Pol-icy and Prac-tice: Lever-ag-
-ing LLMs for Privacy-
  []
 
 [2{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc
 }]
-Underfull \hbox (badness 10000) in paragraph at lines 182--209
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 182--209
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 182--209
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 182--209
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 182--209
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 182--209
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 182--209
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 182--209
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 182--209
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 182--209
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 182--209
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 182--209
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 182--209
-
+Overfull \hbox (1.71817pt too wide) in paragraph at lines 201--202
+[]\OT1/cmr/m/n/10.95 Master the-sis: Bridg-ing Pol-icy and Prac-tice: Lever-ag-
+ing LLMs for Privacy-
  []
 
 [3] [4] (./template.aux)
@@ -595,13 +528,13 @@ Package rerunfilecheck Info: File `template.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 12717 strings out of 467525
- 217644 string characters out of 5418982
- 626642 words of memory out of 5000000
- 41503 multiletter control sequences out of 15000+600000
+ 12745 strings out of 467525
+ 218509 string characters out of 5418982
+ 627782 words of memory out of 5000000
+ 41527 multiletter control sequences out of 15000+600000
  632372 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,5n,79p,527b,568s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,5n,79p,527b,570s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2026/texmf-dist/fonts/type1/public/fontawesome5/FontAweso
 me5Free-Solid.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfont
@@ -610,7 +543,7 @@ s/cm/cmbx12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts
 m/cmsy10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmti10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfr
 m1095.pfb>
-Output written on template.pdf (4 pages, 102461 bytes).
+Output written on template.pdf (4 pages, 107155 bytes).
 PDF statistics:
  89 PDF objects out of 1000 (max. 8388607)
  68 compressed objects within 1 object stream

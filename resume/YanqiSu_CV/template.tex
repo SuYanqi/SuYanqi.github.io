@@ -29,6 +29,9 @@
 \usepackage{hyperref}
 \usepackage{marvosym}
 \usepackage{multicol}
+\usepackage{needspace}
+\usepackage{etoolbox}
+\AtBeginEnvironment{rSection}{\needspace{6\baselineskip}} % Keep section titles with their content
 
 \hypersetup{
     colorlinks=true,
@@ -80,6 +83,16 @@ My research lies at the intersection of Software Engineering, Knowledge Graphs, 
 	
 \end{rSection}
 
+\begin{rSection}{Academic Appointments}
+
+\textbf{The University of Western Australia (UWA)} \hfill \textit{May 2026 - Present} \\
+Lecturer, Computer Science and Software Engineering
+\newline\newline
+\textbf{Technical University of Munich (TUM)} \hfill \textit{Oct. 2024 - Apr. 2026} \\
+Postdoctoral Researcher, Software Engineering \& AI, supervised by Chunyang Chen
+
+\end{rSection}
+
 \begin{rSection}{Education}
 	
 	\textbf{The Australian National University (ANU)} \hfill \textit{Sep. 2020 - Sep. 2024} \\ 
@@ -99,6 +112,7 @@ My research lies at the intersection of Software Engineering, Knowledge Graphs, 
 	% Overall GPA: 5.678
 	
 \end{rSection}
+
 
 \begin{rSection}{Publications}
  \href{https://dl.acm.org/doi/10.1145/3832240}{\textbf{Yanqi Su}, Michael Pradel, Chunyang Chen: RippleGUItester: Change-Aware Exploratory Testing. The 35th SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026).} Acceptance rate: 10.1\% (90/888)
@@ -129,32 +143,55 @@ Zhipeng Gao, \textbf{Yanqi Su}, Xing Hu, Xin Xia: \href{https://dl.acm.org/doi/1
 % Enhancing Exploratory Testing by Large Language Model and Knowledge Graph. The 46th International Conference on Software Engineering (ICSE'24). 
 \end{rSection}
 
-\begin{rSection}{Teaching and Working}
+\begin{rSection}{Fundings \& Awards}
+ACM SIGSOFT CAPS Award, FSE/ISSTA \hfill \textit{2025} \\
+ACM Travel Grant, ICSE \hfill \textit{2024} \\
+ANU Vice-Chancellor's Travel Grant \hfill \textit{2024} \\
+ACM SIGSOFT Distinguished Paper Award (First author), ASE \hfill \textit{2021} \\
+HDR Fee Remission Merit Scholarship, ANU \hfill \textit{2020.09 -- 2024.09} \\
+University Research Scholarship, ANU \hfill \textit{2020.09 -- 2024.09} \\
+First-Class Graduate Scholarship, NUAA \hfill \textit{2017.09 -- 2020.04} \\
+Outstanding Research and Innovation Award, NUAA \hfill \textit{2019.09 -- 2020.04} \\
+Outstanding Contribution to Social Activities, NUAA \hfill \textit{2019.09 -- 2020.04} \\
+Third-Class Scholarship, NUAA \hfill \textit{2015.09 -- 2017.06} \\
+Second-Class Scholarship, NUAA \hfill \textit{2014.09 -- 2015.06} \\
+Third-Class Scholarship, NUAA \hfill \textit{2013.09 -- 2014.06} \\
+Microsoft Research Asia Club Star \hfill \textit{2014} \\
+Outstanding Youth Volunteer, 2nd Youth Olympic Games \hfill \textit{2014.08 -- 2014.09}
+\end{rSection}
 
-\textbf{Lecturer in The University of Western Australia (UWA)}, Computer Science and Software Engineering, from May 2026
+\begin{rSection}{Research Experience}
+
+\textbf{University of Stuttgart \& CISPA} \hfill \textit{Nov. 2025} \\
+Research Visit, Software Lab, supervised by Michael Pradel
 \newline\newline
-\textbf{Lecturer in UWA}, CITS5501 / CITS3501 Software Testing and Quality Assurance, 2026 Semester 2
+\textbf{Fudan University} \hfill \textit{Sep. 2020 - Jun. 2021} \\
+Research Assistant, CodeWisdom Team, supervised by Xin Peng
+
+\end{rSection}
+
+\begin{rSection}{Teaching}
+
+\textbf{Lecturer}, The University of Western Australia (UWA) \hfill \textit{2027 Semester 1} \\
+CITS4401 Software Requirements and Design
 \newline\newline
-\textbf{Postdoctoral Researcher in Technische Universität München (TUM)}, Software Engineering \& AI, from Oct-21-2024 to Apr-2026, supervised by Chunyang Chen
+\textbf{Lecturer}, UWA \hfill \textit{2026 Semester 2} \\
+CITS5501 / CITS3501 Software Testing and Quality Assurance
 \newline\newline
-\textbf{Lecturer in TUM}, Seminar Exploratory Software Testing (INHN0015, INHN4016, IN0014, IN45111), 2026 Summer
+\textbf{Lecturer}, Technical University of Munich (TUM) \hfill \textit{2026 Summer} \\
+Seminar Exploratory Software Testing (INHN0015, INHN4016, IN0014, IN45111)
 \newline\newline
-\textbf{Lecturer in TUM}, Seminar Exploratory Software Testing (IN0014) (INHN0015, INHN4012), 2025 Summer
+\textbf{Lecturer}, TUM \hfill \textit{2025 Summer} \\
+Seminar Exploratory Software Testing (IN0014, INHN0015, INHN4012)
 \newline\newline
-\textbf{Guest Lecturer in TUM}, Advanced Topics in Software Engineering (CITHN3003), 2024 \& 2025 Winter
+\textbf{Guest Lecturer}, TUM \hfill \textit{2024 \& 2025 Winter} \\
+Advanced Topics in Software Engineering (CITHN3003)
 \newline\newline
-\textbf{Teaching Assistant in ANU}, COMP4130 Managing Software Quality and Process, 2024S1, supervised by Xiaoyu Sun
+\textbf{Teaching Assistant}, The Australian National University (ANU) \hfill \textit{2024 Semester 1} \\
+COMP4130 Managing Software Quality and Process, supervised by Xiaoyu Sun
 \newline\newline
-% (Email: Xiaoyu.sun1@anu.edu.au)}
-%\textbf{Internship in Huawei}, Software Engineering Application Technology Lab, from Jun-30-2021 to Sep-30-2022, supervised by Xin Xia
-%\newline\newline
-% (Email: Xin.Xia@acm.org)}
-\textbf{Research Visit in University of Stuttgart \& CISPA}, Software Lab, from Nov-01-2025 to Nov-12-2025, supervised by Michael Pradel
-\newline\newline
-\textbf{Research Assistant in Fudan University}, CodeWisdom Team, from Sep-01-2020 to Jun-30-2021, supervised by Xin Peng
-\newline\newline
-% (Email: pengxin@fudan.edu.cn)}
-\textbf{Teaching Assistant in NUAA}, Software Metrics, 2017S2, supervised by Yu Zhou
+\textbf{Teaching Assistant}, NUAA \hfill \textit{2017 Semester 2} \\
+Software Metrics, supervised by Yu Zhou
 
 \end{rSection}
 
@@ -178,35 +215,6 @@ Zhipeng Gao, \textbf{Yanqi Su}, Xing Hu, Xin Xia: \href{https://dl.acm.org/doi/1
     
 \end{rSection}
 
-\begin{rSection}{Fundings \& Awards}
-ANU Vice-Chancellor's Travel Grant
-\newline\newline
-ACM SIGSOFT CAPS AWARD FSE/ISSTA 2025 
-\newline\newline
-ACM Travel Grant for 2024 IEEE/ACM 46th International Conference on Software Engineering
-\newline\newline
-ACM SIGSOFT Distinguished Paper Award (First author) in ASE2021
-\newline\newline
-HDR Fee Remission Merit Scholarship, ANU, 2020.09 – 2024.09
-\newline\newline
-University Research Scholarship, ANU, 2020.09 – 2024.09
-\newline\newline
-First-Class Graduate Scholarship, NUAA, 2017.09 – 2020.04
-\newline\newline
-Outstanding Research and Innovation Award, NUAA, 2019.09 – 2020.04
-\newline\newline
-Outstanding Contribution to Social Activities, NUAA, 2019.09 – 2020.04
-\newline\newline
-Third-Class Scholarship, NUAA, 2015.09 – 2017.06
-\newline\newline
-Second-Class Scholarship, NUAA, 2014.09 – 2015.06
-\newline\newline
-Third-Class Scholarship, NUAA, 2013.09 – 2014.06
-\newline\newline
-Microsoft Research Asia Club Star, 2014
-\newline\newline
-Outstanding Youth Volunteer, 2nd Youth Olympic Games, 2014.08 – 2014.09
-\end{rSection}
 
 \begin{rSection}{Service}
 \textbf{Journal Reviewer}
@@ -281,6 +289,7 @@ This talk is a compilation of my main research and I gave this talk at multiple 
 % \textbf{Google Research Australia} Constructing a System Knowledge Graph of User Tasks and Failures to Support Soap Opera Testing, Dec. 2023
 \end{rSection}
 
+\needspace{16\baselineskip}
 \begin{rSection}{References}
 
 \noindent
